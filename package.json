@@ -1,0 +1,23 @@
+{
+  "name": "taro-adapter-for-axios",
+  "version": "1.0.1",
+  "description": "axios adaptor for taro.request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmileRose/taro-adapter-for-axios.git"
+  },
+  "author": "SmileRose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmileRose/taro-adapter-for-axios/issues"
+  },
+  "homepage": "https://github.com/SmileRose/taro-adapter-for-axios#readme",
+  "dependencies": {
+    "@tarojs/taro": "^3.6.8"
+  },
+  "keywords": ["axios", "Taro"]
+}
